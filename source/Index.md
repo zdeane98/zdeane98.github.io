@@ -21,7 +21,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- Icon Bar (Sidebar - hidden on small screens) -->
 <nav class="w3-sidebar w3-bar-block w3-small w3-hide-small w3-center">
   <!-- Avatar image in top left corner -->
-  <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/ZachGray.jpg" style="width:100%">
+  <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/ZachGray.jpg" style="width:100%">
   <a href="#" class="w3-bar-item w3-button w3-padding-large w3-black">
     <i class="fa fa-home w3-xxlarge"></i>
     <p>HOME</p>
@@ -56,7 +56,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
     <h1 class="w3-jumbo"><span class="w3-hide-small"></span> Zachary Deane</h1>
     <p>Quick Picture of Me (More to follow)</p>
-    <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/PictureOfMe.PNG" alt="Zach" class="w3-image" width="364" height="419">
+    <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/PictureOfMe.PNG" alt="Zach" class="w3-image" width="364" height="419">
   </header>
 
   <!-- About Section -->
@@ -66,7 +66,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <p>Hi! My name is Zachary Deane. I am studying Cybersecurity at Saint Leo University. In my free time
       I enjoy playing video games, watching anime, and watching sports. I am usually pretty dominant in fantasy sports
       as I have many league championships under my belt. This year isn't looking great for me though! My favorite sports team
-      is any team from Boston as I was born and raised in Massachussetts. My family likes to say that Tom Brady followed us to Tampa.
+      is any team from Boston as I was born and raised in Massachusetts. My family likes to say that Tom Brady followed us to Tampa.
       My favorite anime is One Piece, if you also like One Piece please talk to me about it (I have some interesting theories). My favorite
       game changes with the wind. If you can find my steam profile in the large pool of "Zach" searches then please check out what I play.
       Below there should be some pictures, if you are curious the glorious cat is named Papillon and the gorgeous German Shepherd is named Suki.
@@ -74,7 +74,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 
 
     <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <a href="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/ZacharyDeaneResume.pdf" download="ZacharyDeaneResume" class="fa fa-download"></a> Download Resume
+      <a href="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/ZacharyDeaneResume.pdf" download="ZacharyDeaneResume" class="fa fa-download"></a> Download Resume
     </button>
   <!-- Portfolio Section -->
   <div class="w3-padding-64 w3-content" id="photos">
@@ -84,15 +84,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     <!-- Grid for photos -->
     <div class="w3-row-padding" style="margin:0 -16px">
       <div class="w3-half">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/MonkeyDeaneLuffy.jpg" style="width:100%">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/MeAndPapi.jpg" style="width:100%">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/Suki.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/MonkeyDeaneLuffy.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/MeAndPapi.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/Suki.jpg" style="width:100%">
       </div>
 
       <div class="w3-half">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/Group.jpg" style="width:100%">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/Volleyball.jpg" style="width:100%">
-        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/SukiPuppy.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/Group.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/Volleyball.jpg" style="width:100%">
+        <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/source/SukiPuppy.jpg" style="width:100%">
       </div>
     <!-- End photo grid -->
     </div>
