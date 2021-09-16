@@ -71,7 +71,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </p>
 
 
-    <button class="w3-button w3-light-grey w3-padding-large w3-section onclick href="https://docs.google.com/document/d/10_o_CFxNg8XwD-7vQallYwl5BnTxET6Vze0crTUxTNg/edit?usp=sharing>
+    <button https://docs.google.com/document/d/10_o_CFxNg8XwD-7vQallYwl5BnTxET6Vze0crTUxTNg/edit?usp=sharing class="w3-button w3-light-grey w3-padding-large w3-section>
       <a class="fa fa-download"></a> Download Resume
     </button>
   <!-- Portfolio Section -->
