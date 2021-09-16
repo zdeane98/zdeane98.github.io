@@ -13,7 +13,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 /* Set the width of the sidebar to 120px */
 .w3-sidebar {width: 120px;background: #222;}
 /* Add a left margin to the "page content" that matches the width of the sidebar (120px) */
-
+.w3-sidebar {width: 120px;background: #222;}
 /* Remove margins from "page content" on small screens */
 @media only screen and (max-width: 600px) {#main {margin-left: 0}}
 </style>
@@ -55,7 +55,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center w3-black" id="home">
-    <h1 class="w3-xxxlarge"><span class="w3-hide-small"></span>Zachary Deane</h1>
+    <h1 style="font-size:2vw;"><span class="w3-hide-small"></span>Zachary Deane</h1>
     <p>Quick Picture of Me (More to follow)</p>
     <img src="https://i.imgur.com/YuwrkJ6.png" alt="Zach" class="w3-image" width="364" height="419">
   </header>
