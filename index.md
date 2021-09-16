@@ -53,7 +53,7 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <div class="w3-padding-large" id="main">
   <!-- Header/Home -->
   <header class="w3-container w3-padding-32 w3-center" id="home">
-    <h1 class="w3-jumbo"><span class="w3-hide-small"></span> Zachary Deane</h1>
+    <h1 style="font-size:4vw;"><span class="w3-hide-small"></span> Zachary Deane</h1>
     <p>Quick Picture of Me (More to follow)</p>
     <img src="/Users/zdean/OneDrive/Documents/GitHub/zdeane98.github.io/PictureOfMe.PNG" alt="Zach" class="w3-image" width="364" height="419">
   </header>
