@@ -69,6 +69,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       game changes with the wind. If you can find my steam profile in the large pool of "Zach" searches then please check out what I play.
       Below there should be some pictures, if you are curious the glorious cat is named Papillon and the gorgeous German Shepherd is named Suki.
     </p>
+
+    <button class="w3-button w3-light-grey w3-padding-large w3-section">
+      <a href="https://drive.google.com/file/d/1ORsgCtp2Z4yDiNBpyPdeVe5aJA1IBRJ0/view?usp=sharing" download="ZacharyDeaneResume" class="fa fa-download"></a> Download Resume
+    </button>
+    
   <!-- Portfolio Section -->
   <div class="w3-padding-64 w3-content" id="photos">
     <h2 class="w3-text-light-grey">My Photos</h2>
