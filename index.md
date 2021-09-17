@@ -71,9 +71,9 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     </p>
 
     <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <a href="https://drive.google.com/file/d/1ORsgCtp2Z4yDiNBpyPdeVe5aJA1IBRJ0/view?usp=sharing" download="ZacharyDeaneResume" class="fa fa-download"></a> Download Resume
+      <a href="https://drive.google.com/file/d/1ORsgCtp2Z4yDiNBpyPdeVe5aJA1IBRJ0/view?usp=sharing" class="fa fa-download"></a> Download Resume
     </button>
-    
+
   <!-- Portfolio Section -->
   <div class="w3-padding-64 w3-content" id="photos">
     <h2 class="w3-text-light-grey">My Photos</h2>
