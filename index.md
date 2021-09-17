@@ -70,8 +70,8 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       Below there should be some pictures, if you are curious the glorious cat is named Papillon and the gorgeous German Shepherd is named Suki.
     </p>
 
-    <button class="w3-button w3-light-grey w3-padding-large w3-section">
-      <a href="https://drive.google.com/file/d/1ORsgCtp2Z4yDiNBpyPdeVe5aJA1IBRJ0/view?usp=sharing" class="fa fa-download"></a> Download Resume
+    <button onclick="window.location.href=href='https://drive.google.com/file/d/1ORsgCtp2Z4yDiNBpyPdeVe5aJA1IBRJ0/view?usp=sharing' ;" class="w3-button w3-light-grey w3-padding-large w3-section">
+      <a class="fa fa-download"></a> Download Resume
     </button>
 
   <!-- Portfolio Section -->
