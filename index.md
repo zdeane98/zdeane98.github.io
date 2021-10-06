@@ -94,6 +94,11 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       </div>
     <!-- End photo grid -->
     </div>
+    <div class="w3-padding-64 w3-content" id="project">
+      <h3 class="w3-text-light-grey">Current Project</h3>
+      <hr style="width:200px" class="w3-opacity">
+      <iframe src="https://emailsaintleo-my.sharepoint.com/personal/zachary_deane_saintleo_edu/_layouts/15/Doc.aspx?sourcedoc={7db73c46-25b2-4138-8795-edb8c2a484cb}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+      </div>
   <!-- End Portfolio Section -->
   </div>
 
